@@ -1,0 +1,3 @@
+Django==1.4.3
+-e git+https://github.com/bcarneiro/django-tenant-schemas.git@e7ec15279f7b0564181e029ae1efaa6d887b2e45#egg=django_tenant_schemas-dev
+wsgiref==0.1.2
