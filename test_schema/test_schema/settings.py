@@ -114,7 +114,6 @@ ROOT_URLCONF = 'test_schema.urls'
 WSGI_APPLICATION = 'test_schema.wsgi.application'
 
 TEMPLATE_DIRS = (
-	'/Users/pro/Projects/test_tenant/test_schema/templates',
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
